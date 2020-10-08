@@ -1,5 +1,5 @@
 # CODECHEF-PYTHON-CODE-
-This is a my frist contest Solution;
+This is a my first contest Solution;
 
 CodeChef is an online competitive platform for coding, which helps you to improve your coding skills. At CodeChef, you can both practice and compete.
 
